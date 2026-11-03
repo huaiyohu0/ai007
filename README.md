@@ -4,7 +4,7 @@
 >
 > 同时收录国内外大模型 中转 / Token 服务商的报价与连通状态。
 
-**更新时间**　`2026-11-03 16:39`（UTC+8）　·　**收录站点**　329 个
+**更新时间**　`2026-11-03 16:42`（UTC+8）　·　**收录站点**　329 个
 
 > 🟢 可用　🟡 较慢　🔴 不可达　·　倍率 **1x = 官方原价**，数值越小越便宜
 
@@ -56,11 +56,11 @@
 | [Aimoniker](https://aimoniker.top/) | **0.08x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 9 个模型 |
 | [CheapAI](https://cheapai.info/) | **0.08x** | 🟢 可用 | gpt-5.4 / gpt-5.5 / gpt-5.6-sol / gpt-5.6-lun… | 价格偏低，收录 31 个模型，型号较全 |
 | [Mooko](https://api.mooko.ai/) | **0.08x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 9 个模型 |
-| [Qzz](https://newapi.hkkkj.qzz.io/) | **0.08x** | 🟡 较慢 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / 图片/… | 价格偏低，响应偏慢，收录 7 个模型 |
+| [Qzz](https://newapi.hkkkj.qzz.io/) | **0.08x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / 图片/… | 价格偏低，收录 7 个模型 |
 | [MaynorAPI](https://apipro.maynor1024.live/) | **0.0809x** | 🟢 可用 | gpt-5 / gpt-5.1 / gpt-5.2 / gpt-5.4 / gpt-5.5 / g… | 价格偏低，收录 80 个模型，型号较全 |
 | [Tryallapi](https://tryallapi.com/) | **0.0809x** | 🟢 可用 | Claude / Gemini / DeepSeek | 价格偏低，收录 3 个模型 |
 | [AruHub](https://aruhub.com/) | **0.09x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / Kimi | 价格偏低，收录 7 个模型 |
-| [DragonAPI](https://newapi.dragon3api.com/) | **0.09x** | 🟡 较慢 | gpt-5.6 / gpt-5.6-sol / gpt-5.6-terra / claud… | 这个站主要面向程序员，支持 GPT、Claude 以及图片和视频模型，模型覆盖比较全面 |
+| [DragonAPI](https://newapi.dragon3api.com/) | **0.09x** | 🟢 可用 | gpt-5.6 / gpt-5.6-sol / gpt-5.6-terra / claud… | 这个站主要面向程序员，支持 GPT、Claude 以及图片和视频模型，模型覆盖比较全面 |
 | [RunAPI:全球领先的API聚合平台](https://runapi.host/) | **0.0926x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 13 个模型 |
 | [9527](https://9527.codes/) | **0.1x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / GLM | 价格偏低，收录 5 个模型 |
 | [AIIDE](https://aiide.com/) | **0.1x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / GLM / Kimi / 豆包 / … | 价格偏低，收录 8 个模型 |
@@ -205,6 +205,7 @@
 | [987xyz](https://987xyz.com/) | **1.5x** | 🟢 可用 | GPT / Claude / Gemini / Grok / 图片/视频 | 价格高于官方价，收录 5 个模型 |
 | [Yixia](https://api.yixia.ai/) | **2x** | 🟢 可用 | GPT / Claude / Gemini / Grok | 价格高于官方价，收录 4 个模型 |
 | [New API](https://ai.1tim.com/) | **5x** | 🟢 可用 | — | 价格高于官方价 |
+| [AI API 网关与接入指南](https://ai.wfpromax.xyz/) | — | 🟢 可用 | — | — |
 | [AI Mover](https://aimover.cc/) | — | 🟢 可用 | — | — |
 | [AICodeMirror官方共享平台](https://aicodemirror.ai/) | — | 🟢 可用 | — | — |
 | [AIHubMix](https://aihubmix.com/) | — | 🟢 可用 | — | — |
@@ -319,7 +320,6 @@
 | [酷站AI](https://koozhan.com/) | — | 🟢 可用 | — | — |
 | [钧临JunLin API](https://api-hub.asia/) | — | 🟢 可用 | — | — |
 | [随想 AI中转站](https://sui-xiang.com/) | — | 🟢 可用 | — | — |
-| [AI API 网关与接入指南](https://ai.wfpromax.xyz/) | — | 🟡 较慢 | — | 响应偏慢 |
 | [AIJWS](https://api.aijws.com/) | — | 🟡 较慢 | — | 响应偏慢 |
 | [AIZZZ](https://api.aizzz.xyz/) | — | 🟡 较慢 | MiniMax | GROK 0.2x，国产模型 0.3x、DeepSeek 0.7x，Gemini 0.3x，a |
 | [ArtBloom](https://api.artbloom.tech/) | — | 🟡 较慢 | — | 支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册 |
