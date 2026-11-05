@@ -4,7 +4,7 @@
 >
 > 同时收录国内外大模型 中转 / Token 服务商的报价与连通状态。
 
-**更新时间**　`2026-11-05 13:59`（UTC+8）　·　**收录站点**　390 个
+**更新时间**　`2026-11-05 14:42`（UTC+8）　·　**收录站点**　390 个
 
 > 🟢 可用　🟡 较慢　🔴 不可达　·　倍率 **1x = 官方原价**，数值越小越便宜
 
@@ -13,12 +13,13 @@
 | [H-e](https://elysiver.h-e.top/) | **0.0319x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格处于最低一档，收录 11 个模型 |
 | [Fishxcode](https://doc.fishxcode.com/) | **0.0615x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek | 价格偏低，收录 4 个模型 |
 | [Openrouter](https://api.openrouter.cloud/) | **0.0651x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / GLM | 价格偏低，收录 5 个模型 |
+| [8341Token工厂](https://api.token8341.com/) | **0.0653x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / Kim… | 价格偏低，收录 8 个模型 |
 | [Ddddai](https://ces.ddddai.xyz/) | **0.0706x** | 🟢 可用 | GPT / Gemini / DeepSeek / Qwen / GLM / Kimi / 向量/嵌入 | 价格偏低，收录 7 个模型 |
 | [灵芽API](https://api.lingyaai.cn/) | **0.0714x** | 🟢 可用 | DeepSeek / Qwen / GLM / Kimi / 豆包 / 向量/嵌入 | 价格偏低，收录 6 个模型 |
 | [Sta1n](https://cdn.sta1n.cn/) | **0.0731x** | 🟢 可用 | Claude / Gemini / DeepSeek / GLM / Kimi / 豆包 / Mist… | 价格偏低，收录 8 个模型 |
 | [星云智联API](https://api.xincloud.top/) | **0.075x** | 🟢 可用 | Claude / Gemini / DeepSeek / Qwen / GLM / Kimi / 豆包 | 价格偏低，收录 7 个模型 |
-| [8341Token工厂](https://api.token8341.com/) | **0.0902x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / Kim… | 价格偏低，收录 8 个模型 |
 | [Jianzhile](https://jianzhile.vip/) | **0.1x** | 🟢 可用 | — | 价格偏低 |
+| [Smai.Ai](https://api.smai.ai/) | **0.1x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / GLM / Kim… | 价格偏低，收录 9 个模型 |
 | [奶酪公益站](https://nailao.biz/) | **0.1x** | 🟢 可用 | — | 公益/免费站，价格偏低 |
 | [RunAPI:全球领先的API聚合平台](https://runapi.host/) | **0.1125x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 13 个模型 |
 | [APIYI](https://api.apiyi.com/) | **0.1145x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 12 个模型 |
@@ -39,10 +40,10 @@
 | [nekoapi](https://api.nekoapi.com/) | **0.15x** | 🟢 可用 | gpt-5 / gpt-5.1 / gpt-5.2 / gpt-5.4 / gpt-5.5 / g… | 价格偏低，收录 80 个模型，型号较全 |
 | [艾可 API](https://ai.wisech.com/) | **0.1535x** | 🟢 可用 | deepseek-v4-pro / deepseek-v4-flash / deeps… | 价格偏低，收录 37 个模型，型号较全 |
 | [Kuaipao](https://kuaipao.ai/) | **0.1562x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 12 个模型 |
+| [Xcode](https://xcode.best/) | **0.1562x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 9 个模型 |
 | [555codex](https://555codex.xyz/) | **0.1579x** | 🟢 可用 | GPT / DeepSeek / Qwen / GLM / Kimi | 价格偏低，收录 5 个模型 |
 | [Yomi API](https://console.yomiapi.com/) | **0.1586x** | 🟢 可用 | gpt-5.5 / gpt-5.6-sol / gpt-5.6-luna / gpt-5.… | Yomi API主要面向 AI 编程和图片创作用户，支持 GPT、Claude、Gemini、Grok，以及 Deep… |
 | [Dawcode](https://dawcode.ai/) | **0.16x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 9 个模型 |
-| [Smai.Ai](https://api.smai.ai/) | **0.1667x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / GLM / Kim… | 价格偏低，收录 9 个模型 |
 | [Yuanqiaoyun](https://yuanqiaoyun.com/) | **0.1667x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 8 个模型 |
 | [Liangrekui](https://api.liangrekui.com/) | **0.1794x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 8 个模型 |
 | [4sapi](https://4sapi.com/) | **0.1961x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 11 个模型 |
@@ -52,10 +53,10 @@
 | [Mooko](https://api.mooko.ai/) | **0.2x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 9 个模型 |
 | [MuskAI](https://api.muskapi.cc/) | **0.2x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 13 个模型 |
 | [Suyu](https://suyu.io/) | **0.2x** | 🟢 可用 | — | 价格偏低 |
-| [Yibuapi](https://yibuapi.com/) | **0.2x** | 🟢 可用 | Claude / DeepSeek / Qwen | 价格偏低，收录 3 个模型 |
 | [yunwu](https://yunwu.ai/) | **0.2x** | 🟢 可用 | — | 价格偏低 |
 | [合聚 API](https://hejuapi.com/) | **0.2x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / 豆包 | 价格偏低，收录 5 个模型 |
 | [星盘](https://xingpan.site/) | **0.2x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 8 个模型 |
+| [Yibuapi](https://yibuapi.com/) | **0.2x** | 🟡 较慢 | Claude / DeepSeek / Qwen | 价格偏低，响应偏慢，收录 3 个模型 |
 | [Ainzy API](https://ainzy.net/) | **0.2027x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 8 个模型 |
 | [Infistar](https://www.infistar.cc/) | **0.206x** | 🟢 可用 | Claude / DeepSeek | 价格偏低，收录 2 个模型 |
 | [9527](https://9527.codes/) | **0.2069x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / GLM | 价格偏低，收录 5 个模型 |
@@ -71,15 +72,14 @@
 | [openaiLabs](https://openai-labs.com/) | **0.24x** | 🟢 可用 | gpt-5 / gpt-5.1 / gpt-5.2 / gpt-5.4 / gpt-5.5 / g… | 价格偏低，收录 80 个模型，型号较全 |
 | [8YES](https://8yes.cc/) | **0.2489x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 8 个模型 |
 | [Ethancode](https://api.ethancode.xyz/) | **0.249x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / GLM / Kim… | 价格偏低，收录 8 个模型 |
+| [APIPro](https://key.wenwen-ai.com/) | **0.25x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 12 个模型 |
 | [Factory.pub](https://factory.pub/) | **0.25x** | 🟢 可用 | GPT / Claude / DeepSeek / Grok / GLM | 价格偏低，收录 5 个模型 |
 | [Krisphyn](https://free.krisphyn.cc/) | **0.25x** | 🟢 可用 | GPT / Gemini / DeepSeek / Grok / Qwen / GLM / Kimi / … | 价格偏低，收录 10 个模型 |
 | [Proaiapi](https://proaiapi.tech/) | **0.25x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek | 价格偏低，收录 4 个模型 |
 | [Qzz](https://newapi.hkkkj.qzz.io/) | **0.25x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / 图片/… | 价格偏低，收录 7 个模型 |
-| [Xcode](https://xcode.best/) | **0.25x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 9 个模型 |
 | [aabao](https://api.aabao.top/) | **0.25x** | 🟢 可用 | gpt-5 / gpt-5.1 / gpt-5.2 / gpt-5.4 / gpt-5.5 / g… | 价格偏低，收录 80 个模型，型号较全 |
 | [一站式大模型开发与应用平台](https://vsllm.cc/) | **0.25x** | 🟢 可用 | Gemini / 向量/嵌入 | 支持 GitHub OAuth 注册、无需邮箱验证，每日签到领额度，额度按 quota_per_unit=500000… |
 | [一站式大模型开发与应用平台](https://vsllm.com/) | **0.25x** | 🟢 可用 | Gemini / 向量/嵌入 | 价格偏低，收录 2 个模型 |
-| [APIPro](https://key.wenwen-ai.com/) | **0.25x** | 🔴 不可达 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，当前不可达，收录 12 个模型 |
 | [Codex Relay](https://codex-relay.codes/) | **0.256x** | 🟢 可用 | gpt-5.5 / gpt-5.6-sol / gpt-5.6-luna / gpt-5.… | 注册可获得 $10 API 额度 |
 | [YUAPI](https://api.yuaiapi.com/) | **0.2564x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 9 个模型 |
 | [ClaudeHub](https://qinzhiai.com/) | **0.2596x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 价格偏低，收录 14 个模型 |
@@ -117,7 +117,6 @@
 | [DDTokens](https://ddtnew.com/) | **0.3667x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 8 个模型 |
 | [0ait](https://0ait.com/) | **0.375x** | 🟢 可用 | GPT / Claude / Gemini / 图片/视频 / 语音/实时 / 向量/嵌入 | 按官方价或接近官方价计费，收录 6 个模型 |
 | [8sToken](https://8stoken.com/) | **0.375x** | 🟢 可用 | — | 这个站比较看重模型原生质量与调用稳定性，强调拒绝降配缩水、多层套壳和公网限速，主打满血官方模型，并搭配企业级私有高速线… |
-| [Hinswu](https://new.ai.hinswu.top/) | **0.375x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 14 个模型 |
 | [otter Link](https://otterl.com/) | **0.375x** | 🟢 可用 | gpt-5.6-sol / gpt-5.6-terra / gpt-5.6-sol-o… | 按官方价或接近官方价计费，收录 48 个模型，型号较全 |
 | [KFCV50API](https://kfcv50.link/) | **0.38x** | 🟢 可用 | gpt-5 / gpt-5.1 / gpt-5.2 / gpt-5.4 / gpt-5.5 / g… | 按官方价或接近官方价计费，收录 80 个模型，型号较全 |
 | [1yuanapi](https://1yuanapi.com/) | **0.381x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / GLM | 按官方价或接近官方价计费，收录 6 个模型 |
@@ -126,8 +125,10 @@
 | [AntiCode](https://anticode.cn/) | **0.4x** | 🟢 可用 | gpt-5.5 / gpt-5.6-sol / gpt-5.4-mini / gpt-5.… | 按官方价或接近官方价计费，收录 30 个模型，型号较全 |
 | [Kr777](https://b.kr777.top/) | **0.4x** | 🟢 可用 | GPT / Claude / Gemini / Grok / 图片/视频 / 语音/实时 / 向量/嵌入 | 按官方价或接近官方价计费，收录 7 个模型 |
 | [悟空API](https://wkapi.pro/) | **0.4x** | 🟢 可用 | — | 支持gpt、claude主流模型，opus5.5-claude-max价格是¥5.2(进)26(出)/一百万Token |
+| [Hinswu](https://new.ai.hinswu.top/) | **0.4167x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 14 个模型 |
 | [RouteEasy](https://api.routeeasy.ai/) | **0.4167x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Kimi / 图片… | 按官方价或接近官方价计费，收录 9 个模型 |
 | [COCO API](https://api.cocoapi.top/) | **0.425x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 11 个模型 |
+| [Jasper](https://api.yjs.im/) | **0.4286x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 9 个模型 |
 | [apilio.ai](https://api.apilio.ai/) | **0.4464x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 13 个模型 |
 | [Midalo](https://model.midalo.ai/) | **0.45x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek | 按官方价或接近官方价计费，收录 4 个模型 |
 | [Midalo-token](https://token.midalo.ai/) | **0.45x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek | 按官方价或接近官方价计费，收录 4 个模型 |
@@ -143,24 +144,23 @@
 | [UoCode](https://aitoke.top/) | **0.5x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / 图片/视频 | 按官方价或接近官方价计费，收录 6 个模型 |
 | [时脉API（ShimaiAPI）- GPT API 中转站与接入服务](https://shimaiapi.com/) | **0.5x** | 🟢 可用 | GPT / 图片/视频 | 按官方价或接近官方价计费，收录 2 个模型 |
 | [IKunCode](https://api.ikuncode.cc/) | **0.5128x** | 🟢 可用 | gpt-5.6-sol / gpt-5.6-terra / claude-opus-5… | 按官方价或接近官方价计费，收录 35 个模型，型号较全 |
-| [Jasper](https://api.yjs.im/) | **0.5231x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 9 个模型 |
 | [API 智纽](https://ai.apizn.com/) | **0.525x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / 图片/视频 | 按官方价或接近官方价计费，收录 6 个模型 |
 | [咕嘎咕嘎](https://ai.xmiaom.com/) | **0.5293x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 8 个模型 |
-| [Kunkun](https://ai.kunkun.chat/) | **0.5294x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 11 个模型 |
-| [Saigou](https://ai.saigou.work/) | **0.5294x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 11 个模型 |
 | [灵犀算力](https://aitoken888.com/) | **0.5357x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / GLM / Kimi | 按官方价或接近官方价计费，收录 7 个模型 |
 | [OpenAI](https://aigo123.net/) | **0.5556x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / Kim… | 按官方价或接近官方价计费，收录 8 个模型 |
 | [A6API 模型广场](https://a6api.vip/) | **0.5578x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 9 个模型 |
 | [SheApi](https://sheapi.top/) | **0.5647x** | 🔴 不可达 | GPT / Claude / DeepSeek / Grok / GLM / Kimi | 按官方价或接近官方价计费，当前不可达，收录 6 个模型 |
-| [YonshoreAPI](https://api.yonshore.com/) | **0.5833x** | 🟢 可用 | gpt-5.6-sol / gpt-5.6-terra / claude-opus-5… | 按量付费的 GPT/Claude API 中转，未注册或发起付费调用 |
+| [Kunkun](https://ai.kunkun.chat/) | **0.5806x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 11 个模型 |
+| [Saigou](https://ai.saigou.work/) | **0.5806x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 11 个模型 |
+| [YonshoreAPI](https://api.yonshore.com/) | **0.5833x** | 🔴 不可达 | gpt-5.6-sol / gpt-5.6-terra / claude-opus-5… | 按量付费的 GPT/Claude API 中转，未注册或发起付费调用 |
 | [Nat6](https://pro.nat6.net/) | **0.5846x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / Kimi | 按官方价或接近官方价计费，收录 7 个模型 |
 | [Agentapi](https://agentapi.one/) | **0.6x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok | 按官方价或接近官方价计费，收录 5 个模型 |
 | [Aijinmi](https://aijinmi.cn/) | **0.6x** | 🟢 可用 | Claude / Gemini / DeepSeek / GLM / Kimi | 按官方价或接近官方价计费，收录 5 个模型 |
 | [Linkuai](https://linkuai.net/) | **0.6x** | 🟢 可用 | GPT / Claude / DeepSeek / Qwen / GLM | 按官方价或接近官方价计费，收录 5 个模型 |
 | [API Plus](https://api.apiplus.cloud/) | **0.6x** | 🔴 不可达 | GPT / Claude / Gemini / Grok | 按官方价或接近官方价计费，当前不可达，收录 4 个模型 |
 | [bltcy](https://api.bltcy.ai/) | **0.6x** | 🔴 不可达 | OpenAI | 按官方价或接近官方价计费，当前不可达，收录 1 个模型 |
-| [78code](https://api.78code.cc/) | **0.6154x** | 🟢 可用 | GPT / Claude / Gemini / Grok / GLM / Kimi | 按官方价或接近官方价计费，收录 6 个模型 |
 | [78code](http://78code.cc/) | **0.6154x** | 🟢 可用 | GPT / Claude / Gemini / Grok / GLM / Kimi | 按官方价或接近官方价计费，收录 6 个模型 |
+| [78code](https://api.78code.cc/) | **0.6154x** | 🟡 较慢 | GPT / Claude / Gemini / Grok / GLM / Kimi | 按官方价或接近官方价计费，响应偏慢，收录 6 个模型 |
 | [Gemai](https://api.gemai.cc/) | **0.6207x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Qwen / GLM / Kim… | 按官方价或接近官方价计费，收录 8 个模型 |
 | [Axisapi](https://axisapi.cn/) | **0.625x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / GLM | 按官方价或接近官方价计费，收录 6 个模型 |
 | [Luxerycaseglobal](https://luxerycaseglobal.com/) | **0.625x** | 🟢 可用 | GPT / Claude / Grok / Kimi | 按官方价或接近官方价计费，收录 4 个模型 |
@@ -174,7 +174,7 @@
 | [Nf](https://api.nf.video/) | **0.7292x** | 🟢 可用 | GPT / Claude / Gemini / Grok | 按官方价或接近官方价计费，收录 4 个模型 |
 | [年华 API](https://us-3.nianhuaapi.com/) | **0.7292x** | 🟢 可用 | — | 公益/免费站，按官方价或接近官方价计费 |
 | [987xyz](https://987xyz.com/) | **0.75x** | 🟢 可用 | GPT / Claude / Gemini / Grok / 图片/视频 | 按官方价或接近官方价计费，收录 5 个模型 |
-| [Xinjianya](https://new.xinjianya.top/) | **0.75x** | 🟢 可用 | GPT / Gemini / DeepSeek / Grok / GLM / Kimi / Llama… | 按官方价或接近官方价计费，收录 10 个模型 |
+| [Xinjianya](https://new.xinjianya.top/) | **0.75x** | 🟡 较慢 | GPT / Gemini / DeepSeek / Grok / GLM / Kimi / Llama… | 按官方价或接近官方价计费，响应偏慢，收录 10 个模型 |
 | [Huan666](https://ai.huan666.de/) | **0.7968x** | 🟢 可用 | Claude / DeepSeek / GLM / Kimi | 按官方价或接近官方价计费，收录 4 个模型 |
 | [Aitokenyes](https://aitokenyes.com/) | **0.8x** | 🟢 可用 | GPT / Claude / Grok / 图片/视频 | 按官方价或接近官方价计费，收录 4 个模型 |
 | [Cooper-API](https://36niu.com/) | **0.8x** | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 按官方价或接近官方价计费，收录 10 个模型 |
@@ -253,6 +253,7 @@
 | [Changchunxu](https://changchunxu.xyz/) | — | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Kimi / 图片/视频 | 收录 6 个模型 |
 | [CheapAI](https://cheapai.info/) | — | 🟢 可用 | gpt-5.4 / gpt-5.5 / gpt-5.6-sol / gpt-5.6-lun… | 收录 31 个模型，型号较全 |
 | [CheapCodex](https://api.cheapcodex.online/) | — | 🟢 可用 | — | 自研 AI 网关 · 本页邀请码送 $20，每日签到再 $20，OpenAI / Anthropic / Codex … |
+| [Chinaz](https://ai-model.chinaz.net/) | — | 🟢 可用 | GPT / DeepSeek / Qwen / GLM / Kimi / 豆包 | 收录 6 个模型 |
 | [Claude Code](https://aicoding.sh/) | — | 🟢 可用 | — | — |
 | [Claude Code 中转站](https://ccsub.net/) | — | 🟢 可用 | — | — |
 | [Cloudborne](https://api.cloudborne.cn/) | — | 🟢 可用 | — | — |
@@ -264,17 +265,16 @@
 | [Cubence](https://cubence.ai/) | — | 🟢 可用 | — | — |
 | [Cubence](https://cubence.com/) | — | 🟢 可用 | — | — |
 | [Dedyn](https://beizhi.dedyn.io/) | — | 🟢 可用 | Claude | 收录 1 个模型 |
+| [DeepSeek](https://deepaiseek.com.cn/) | — | 🟢 可用 | — | — |
 | [Dify Marketplace](https://marketplace.dify.ai/) | — | 🟢 可用 | — | — |
 | [DoCode](https://docode.cc/) | — | 🟢 可用 | — | 公益/免费站 |
 | [DuckCoding](https://docs.duckcoding.ai/) | — | 🟢 可用 | — | — |
 | [FastAI 模型](https://fastaitoken.com/) | — | 🟢 可用 | — | — |
 | [FluxionAI](https://fluxionai.space/) | — | 🟢 可用 | — | 这个站模型覆盖比较全面，主流模型基本都有支持，并通过多线路动态调度提升接口可用性，模型表现、响应时间和费用也可以在后台… |
-| [GPT API for Coding Agents: OpenAI & C…](https://codeilab.com/) | — | 🟢 可用 | — | — |
 | [Galaxy](https://gpt.eacase.de5.net/) | — | 🟢 可用 | — | — |
 | [GcmodAi](https://gcmod.bond/) | — | 🟢 可用 | — | — |
 | [Grox](https://mcgrox.top/) | — | 🟢 可用 | — | — |
 | [H API](https://hapiopen.cc/) | — | 🟢 可用 | — | — |
-| [Happy Code](https://happycodeai.com/) | — | 🟢 可用 | — | 注册可获得 $100 额度，加入 QQ 群领取新人体验包 |
 | [Hiyo Free](https://free.hiyo.top/) | — | 🟢 可用 | — | — |
 | [Hkai25](https://share.hkai25.top/) | — | 🟢 可用 | DeepSeek | 收录 1 个模型 |
 | [Home](https://api.sixoner.com/) | — | 🟢 可用 | — | — |
@@ -284,7 +284,6 @@
 | [KaiGPT](https://gptzzz.ai/) | — | 🟢 可用 | — | 官网首页当前说明 OpenAI 与 Claude 主流模型按官方价的 10% 计费（0.1x），具体模型 ID、分组和… |
 | [Key智API](https://aitokey.top/) | — | 🟢 可用 | Claude / DeepSeek / Grok / GLM | 个人运营的第三方多模型 API 中转，提供 GPT、Claude、DeepSeek、Grok、GLM、Kimi 接入，… |
 | [Long的AI](https://aaawinn.xyz/) | — | 🟢 可用 | — | 公益/免费站 |
-| [Maiai](https://maiai.ai/) | — | 🟢 可用 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 收录 9 个模型 |
 | [Matrix](https://matrix.mzsjai.com/) | — | 🟢 可用 | — | 统一 API 网关 + 开源应用商店 · 邀请注册送 600 积分，实名再送 2000 |
 | [Mirasim](https://mirasim.ai/) | — | 🟢 可用 | — | Go套餐 $1/月 · 每 5 小时官网估算：Kimi 约 130 次 / GLM 约 1,900 次 / DS 约 … |
 | [MoLiFang](https://molifangapi.com/) | — | 🟢 可用 | — | — |
@@ -318,6 +317,7 @@
 | [Teapot Router](https://teapotrouter.com/) | — | 🟢 可用 | — | 按量付费双协议网关，一个 Key 同时支持 Claude Code 与 OpenAI SDK / Codex，价格公开… |
 | [ToTokens](https://totokens.cc/) | — | 🟢 可用 | — | — |
 | [TokenLab](https://lemondata.cc/) | — | 🟢 可用 | — | — |
+| [TokenWorks](https://token8341.com/) | — | 🟢 可用 | Claude / Gemini / DeepSeek / 图片生成 / 视频生成 | 付费多模型 API 网关，官方价格目录展示 20 家厂商模型及官方价/本站按量价对比，包含 GPT、Claude、Ge… |
 | [Tokens Kingdom](https://tokenskingdom.com/) | — | 🟢 可用 | — | — |
 | [ToolCode](https://toolcode.top/) | — | 🟢 可用 | — | 这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，gpt-6-astra… |
 | [ToolCode](https://toolcode.cc/) | — | 🟢 可用 | — | — |
@@ -372,7 +372,6 @@
 | [灵眸AI 国际站：一个 Base URL，畅用全球旗舰大模型](https://api.lmuai.ai/) | — | 🟢 可用 | — | — |
 | [灵眸文档：Claude Code、Codex、Cursor 接入灵眸 AP…](https://docs.lmuai.ai/) | — | 🟢 可用 | — | — |
 | [灵算](https://lingsuan.si/) | — | 🟢 可用 | — | — |
-| [灵绘AI](https://xn--ai-xg4e312c.com/) | — | 🟢 可用 | — | — |
 | [登录 - Dify](https://cloud.dify.ai/) | — | 🟢 可用 | — | — |
 | [肖恩AI](https://free.supxh.xin/) | — | 🟢 可用 | — | 免费大模型API · 注册送5000额度，每日签到1000~3000，邀请双方各得2000 |
 | [词元之河 TokenRiver](https://tokenriver.ai/) | — | 🟢 可用 | — | 公益/免费站 |
@@ -381,12 +380,13 @@
 | [随想 AI中转站](https://sui-xiang.com/) | — | 🟢 可用 | — | — |
 | [AIJWS](https://api.aijws.com/) | — | 🟡 较慢 | — | 响应偏慢 |
 | [AIZZZ](https://api.aizzz.xyz/) | — | 🟡 较慢 | MiniMax | GROK 0.2x，国产模型 0.3x、DeepSeek 0.7x，Gemini 0.3x，a |
-| [Chinaz](https://ai-model.chinaz.net/) | — | 🟡 较慢 | GPT / DeepSeek / Qwen / GLM / Kimi / 豆包 | 响应偏慢，收录 6 个模型 |
+| [GPT API for Coding Agents: OpenAI & C…](https://codeilab.com/) | — | 🟡 较慢 | — | 响应偏慢 |
+| [Happy Code](https://happycodeai.com/) | — | 🟡 较慢 | — | 注册可获得 $100 额度，加入 QQ 群领取新人体验包 |
+| [Maiai](https://maiai.ai/) | — | 🟡 较慢 | GPT / Claude / Gemini / DeepSeek / Grok / Qwen / GL… | 响应偏慢，收录 9 个模型 |
 | [Orbelis](https://nova.vcrauo.com/) | — | 🟡 较慢 | — | 公益/免费站，响应偏慢 |
-| [TokenWorks](https://token8341.com/) | — | 🟡 较慢 | Claude / Gemini / DeepSeek / 图片生成 / 视频生成 | 付费多模型 API 网关，官方价格目录展示 20 家厂商模型及官方价/本站按量价对比，包含 GPT、Claude、Ge… |
+| [灵绘AI](https://xn--ai-xg4e312c.com/) | — | 🟡 较慢 | — | 响应偏慢 |
 | [黑与白公益站](https://cdk.hybgzs.com/) | — | 🟡 较慢 | — | 公益/免费站，响应偏慢 |
 | [ArtBloom](https://api.artbloom.tech/) | — | 🔴 不可达 | — | 支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册 |
-| [DeepSeek](https://deepaiseek.com.cn/) | — | 🔴 不可达 | — | 当前不可达 |
 | [GalaxyAPI](https://api.openai-ch.top/) | — | 🔴 不可达 | OpenAI | 当前不可达，收录 1 个模型 |
 | [GoRouter](https://gorouter.app/) | — | 🔴 不可达 | — | 公益/免费站，当前不可达 |
 | [GueAi](https://api.gueai.com/) | — | 🔴 不可达 | OpenAI / Claude | 当前不可达，收录 2 个模型 |
